@@ -1,2 +1,5 @@
-# rev-shell-windows11-24h2-av-bypass
- A reverse shell for windows 11 24h2 that bypass av
+# Reverse Shell for Windows 11 24H2 - AV Bypass
+
+**Disclaimer:** This project is for educational purposes only. Use responsibly and ensure compliance with applicable laws.
+
+**Status:** Work in Progress
